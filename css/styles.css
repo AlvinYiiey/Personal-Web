@@ -1,0 +1,143 @@
+body {
+    color: #404258;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.alvin {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.first {
+    width: 30%;
+    margin: auto;
+}
+
+h1 {
+    color: #81C6E8;
+    font-size: 5.625rem;
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #47B5FF;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #5F9DF7;
+    font-weight: bolder;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    margin: 100px auto;
+    background-color: transparent;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EEF1FF;
+    border-width: 7px;
+    width: 5%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.skill-icon {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+
+.gaming-icon {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+
+.top-container {
+    background-color: #CDFCF6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+
+}
+
+.bottom-container {
+    background-color: #00d1ed;
+    padding: 50px 0 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 30px;
+    width: 230px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    margin-top: 150px;
+    width: 230px;
+}
+
+.mountain {
+    margin-left: 50px;
+}
+
+.des-contact {
+    width: 40%;
+    margin: 60px auto 80px;
+}
+
+.btn {
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #00d1ed;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #42e7ed;
+    text-decoration: none;
+}
+
+a {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 25px;
+}
+
+.ig-fb-wa {
+    width: 30px;
+    transition: transform .2s;
+}
+
+.ig-fb-wa:hover {
+    transform: scale(1.5);
+}
+
